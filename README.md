@@ -23,8 +23,8 @@ e͜͡s͜͡c͜͡r͜͡i͜͡b͜͡e͜͡ l͜͡o͜͡s͜͡ s͜͡i͜͡g͜͡u͜͡i͜͡e͡
 > apt install nodejs -y
 > apt install ffmpeg -y
 > apt install imagemagick -y
-> git clone https://github.com/BrunoSobrino/SimpleBot
-> cd SimpleBot
+> git clone https://github.com/SNT-Oficial/-
+> cd -
 > yarn install
 > npm install
 > npm update
@@ -36,7 +36,7 @@ e͜͡s͜͡c͜͡r͜͡i͜͡b͜͡e͜͡ l͜͡o͜͡s͜͡ s͜͡i͜͡g͜͡u͜͡i͜͡e͡
 ```bash
 e͜͡s͜͡c͜͡r͜͡i͜͡b͜͡e͜͡ l͜͡o͜͡s͜͡ s͜͡i͜͡g͜͡u͜͡i͜͡e͜͡n͜͡t͜͡e͜͡s͜͡ c͜͡o͜͡m͜͡a͜͡n͜͡d͜͡o͜͡s͜͡ u͜͡n͜͡o͜͡ p͜͡o͜͡r͜͡ u͜͡n͜͡o͜͡:
 > cd 
-> cd SimpleBot
+> cd -
 > npm start
 ```
 
@@ -44,7 +44,7 @@ e͜͡s͜͡c͜͡r͜͡i͜͡b͜͡e͜͡ l͜͡o͜͡s͜͡ s͜͡i͜͡g͜͡u͜͡i͜͡e͡
 ```bash
 e͜͡s͜͡c͜͡r͜͡i͜͡b͜͡e͜͡ l͜͡o͜͡s͜͡ s͜͡i͜͡g͜͡u͜͡i͜͡e͜͡n͜͡t͜͡e͜͡s͜͡ c͜͡o͜͡m͜͡a͜͡n͜͡d͜͡o͜͡s͜͡ u͜͡n͜͡o͜͡ p͜͡o͜͡r͜͡ u͜͡n͜͡o͜͡:
 > cd 
-> cd SimpleBot
+> cd -
 > rm -rf session.data.json
 > npm start
 ```
