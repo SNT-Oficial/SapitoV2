@@ -7,8 +7,8 @@
 
 
 ### `—◉ 𖠌 🄰🄹🅄🅂🅃🄴🅂 𖠌`
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/Micasatio/SAPITO-/fork)
-- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/Micasatio/SAPITO-/blob/master/config.js)
+- CLONAR EL REPOSITORIO [Aqui](https://github.com/SNT-Oficial/-/fork)
+- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/SNT-Oficial/-/blob/master/config.js)
 
 
 ### `—◉ 𖨆 𝔸𝕔𝕥𝕚𝕧𝕒𝕣 𝔼𝕟 𝕋𝕖𝕣𝕞𝕦𝕩 𖨆`
@@ -50,6 +50,6 @@ e͜͡s͜͡c͜͡r͜͡i͜͡b͜͡e͜͡ l͜͡o͜͡s͜͡ s͜͡i͜͡g͜͡u͜͡i͜͡e͡
 ```
 
 ## ` ➪𝘌𝘥𝘪𝘵𝘰𝘳 𝘺 𝘱𝘳𝘰𝘱𝘪𝘦𝘵𝘢𝘳𝘪𝘰 𝘥𝘦𝘭 𝘣𝘰𝘵` 
-<a href="https://github.com/Micasatio"><img src="https://github.com/Micasatio.png" width="300" height="300" alt="Micasatio"/></a>
+<a href="https://github.com/SNT-Oficial"><img src="https://github.com/SNT-Oficial.png" width="300" height="300" alt="SNT-Oficial"/></a>
 
 `𝔖𝔞𝔭𝔦𝔱𝔬_𝔅𝔬𝔱 _ 𝖡𝗒 丂几ㄒ✞︎`
