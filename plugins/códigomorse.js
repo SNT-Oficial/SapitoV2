@@ -2,15 +2,14 @@ let handler = async (m, { conn }) => {
 let _uptime = process.uptime() * 1000
 let uptime = clockString(_uptime)
 m.reply(`
-*MMM CODIGO MORSE*
-Dice que te gusta la verga
+El puto eres tú idiota 
 
 
 _Sapito-Bot_ ${uptime}
 `.trim())}
 handler.help = ['runtime']
 handler.tags = ['info']
-handler.command = /^(..|.|....|...|.....)$/i
+handler.command = /^(puto|puto|bot puto|puto bot|putobot)$/i
 module.exports = handler
 function clockString(ms) {
 let h = isNaN(ms) ? '--' : Math.floor(ms / 3600000)
