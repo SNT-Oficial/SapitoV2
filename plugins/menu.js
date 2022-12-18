@@ -44,8 +44,8 @@ let menu = `
 ┣ ඬ⃟☃︎ _${usedPrefix}google *[texto]*_
 ┣ ඬ⃟☃︎ _${usedPrefix}imagen *[texto]*_
 ┣ ඬ⃟☃︎ _${usedPrefix}play *[texto]*_
-┣ ඬ⃟☃︎ _${usedPrefix}play2 *[texto]*_
-┣ ඬ⃟☃︎ _${usedPrefix}play3 *[texto]*_
+┣ ඬ⃟☃︎ _${usedPrefix}video *[texto]*_
+┣ ඬ⃟☃︎ _${usedPrefix}estado
 ┣ ඬ⃟☃︎ _${usedPrefix}invocar *[texto]*_
 ┣ ඬ⃟☃︎ _${usedPrefix}ytsearch *[texto]*_
 ┣ ඬ⃟☃︎ _${usedPrefix}getaud *[url]*_
@@ -76,6 +76,7 @@ let menu = `
 ┣ ඬ⃟☃︎ _${usedPrefix}perra_
 ┣ ඬ⃟☃︎ _${usedPrefix}insano_
 ┣ ඬ⃟☃︎ _${usedPrefix}gay_
+┣ ඬ⃟☃︎ _${usedPrefix}lesbiana_
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ┃ *< 𝑂𝑤𝑛𝑒𝑟 >*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
