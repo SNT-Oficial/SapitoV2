@@ -71,6 +71,11 @@ let menu = `
 ┣ ඬ⃟☃︎ _${usedPrefix}earrape *[nota de voz]*_
 ┣ ඬ⃟☃︎ _${usedPrefix}reverse *[nota de voz]*_
 ┣ ඬ⃟☃︎ _${usedPrefix}smooth *[nota de voz]*_
+   *𝐽𝑢𝑒𝑔𝑜𝑠*
+┣ ඬ⃟☃︎ _${usedPrefix}puta_
+┣ ඬ⃟☃︎ _${usedPrefix}perra_
+┣ ඬ⃟☃︎ _${usedPrefix}insano_
+┣ ඬ⃟☃︎ _${usedPrefix}gay_
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ┃ *< 𝑂𝑤𝑛𝑒𝑟 >*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
