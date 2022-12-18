@@ -8,11 +8,3 @@ mentionedJid: m.mentionedJid}} : {})}
 handler.command = /^(gay|lesbi)/i
 handler.fail = null
 module.exports = handler
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
