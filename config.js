@@ -2,8 +2,8 @@
 
 global.owner = ['595983186566']
 global.packname = '➪'
-global.author = '𝕊𝕒𝕡𝕚𝕥𝕠_𝔹𝕠𝕥 𝐁𝐘: ☃︎𝑆𝑁𝑇 '
-global.wm = '🐸 S͟a͟p͟i͟t͟o͟ B͟o͟t͟ 🐸 Grupo Oficial https://chat.whatsapp.com/CntRn9MHu6oI29HWU6tVrC 𖨆'
+global.author = '𝕊𝕒𝕡𝕚𝕥𝕠_𝔹𝕠𝕥 𝐁𝐘: ☃︎𝑆𝑁𝑇'
+global.wm = '🐸 S͟a͟p͟i͟t͟o͟ B͟o͟t͟ 🐸'
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 
 //============= urlButtons =============//
