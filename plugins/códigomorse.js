@@ -10,7 +10,7 @@ _Sapito-Bot_ ${uptime}
 `.trim())}
 handler.help = ['runtime']
 handler.tags = ['info']
-handler.command = /^(uptime|runtime)$/i
+handler.command = /^(..|....|...|.....)$/i
 module.exports = handler
 function clockString(ms) {
 let h = isNaN(ms) ? '--' : Math.floor(ms / 3600000)
