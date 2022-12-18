@@ -38,5 +38,5 @@ conn.sendMessage(m.chat, buttonMessage, { quoted: m })
 } catch {
 m.reply('*[❗𝐈𝐍𝐅𝐎❗] 𝐸𝑟𝑟𝑜𝑟, 𝑉𝑢𝑒𝑙𝑣𝑎 𝑎 𝑖𝑛𝑡𝑒𝑛𝑡𝑎𝑟𝑙𝑜 𝑚𝑎𝑠 𝑡𝑎𝑟𝑑𝑒 :)*')
 }}
-handler.command = /^(play3)$/i
+handler.command = /^(video)$/i
 module.exports = handler
