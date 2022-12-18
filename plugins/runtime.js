@@ -1,6 +1,5 @@
 let handler = async (m, { conn }) => {
 let _uptime = process.uptime() * 1000
-let pp = './Menu2.jpg'
 let uptime = clockString(_uptime)
 m.reply(`
 *𝑆𝑎𝑝𝑖𝑡𝑜 𝐵𝑜𝑡 𝑒𝑠𝑡𝑢𝑣𝑜 𝑎𝑐𝑡𝑖𝑣𝑜* ${uptime}
