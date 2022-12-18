@@ -80,9 +80,9 @@ let menu = `
 ┗━━━━━━━━━━━━━┛
 `.trim()
 let buttons = [
-{ buttonId: '#owner', buttonText: { displayText: '💫 𝐎𝐖𝐍𝐄𝐑 💫' }, type: 1 },
-{ buttonId: '#runtime', buttonText: { displayText: '⏰ 𝐑𝐔𝐍𝐓𝐈𝐌𝐄 ⏰' }, type: 1 },
-{ buttonId: '#infohost', buttonText: { displayText: '👑 𝐈𝐍𝐅𝐎𝐇𝐎𝐒𝐓 👑' }, type: 1 }]
+{ buttonId: '#owner', buttonText: { displayText: '🐸 CREADOR 🐸' }, type: 1 },
+{ buttonId: '#bot cogemos?', buttonText: { displayText: '🤑 COGEMOS? 🤑' }, type: 1 },
+{ buttonId: '#logo', buttonText: { displayText: '🐎 LOGOS 🐎' }, type: 1 }]
 let buttonMessage = {
 image: fs.readFileSync('./Menu2.jpg'),
 caption: menu.trim(),
