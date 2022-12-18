@@ -1,7 +1,7 @@
 let fetch = require('node-fetch')
 let handler  = async (m, { conn, text }) => {
 try {
-let res = await fetch('https://cataas.com/cat')
+let res = await fetch('https://dogs.com/dog')
 let img = await res.buffer()
 let caption = `
 _hola 👋 te invito a unirte a los grupos de_ *Sapito_Bot*
@@ -16,7 +16,7 @@ _Grupo 4_ https://chat.whatsapp.com/Lu01IGq2bd73PvofLwFmv5
 
        *Te DIVERTIRAS MUCHOOOO*
 `.trim()
-conn.sendFile(m.chat, img, 'cat.jpg', caption, m)
+conn.sendFile(m.chat, img, 'dog.jpg', caption, m)
 } catch (e) {
 console.log(e)
 throw '*[❗] 𝐄𝐫𝐫𝐨𝐫*'
