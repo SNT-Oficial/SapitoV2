@@ -6,6 +6,6 @@ conn.send3Button(m.chat, `
 *ミ🤖 Estado del Bot 🤖彡*
 *=> Bot activo ✔️*
 *=> Bot uso público ✔️*
-`.trim(), '©Sapito_Bot - Bot', '🔷️ MENÚ 🔷', `${usedPrefix}menu`, '🔶️ MENÚ SIMPLE 🔶️', `${usedPrefix}menusimple`, '💠️ MENÚ AUDIOS 💠️', `${usedPrefix}menuaudios`, m, false, { contextInfo: { mentionedJid }})}
+`.trim(), '©Sapito_Bot - Bot', '🔷️ MENÚ 🔷', `${usedPrefix}menu`, '🔶️ ¿Nos besamos? 🔶️', `${usedPrefix}bot nos besamos?`, '💠️ FreeFire 💠️', `${usedPrefix}tts es una mierda de juego`, m, false, { contextInfo: { mentionedJid }})}
 handler.command = /^(estado|puto|estate|state|stado|stats)$/i
 module.exports = handler
