@@ -20,7 +20,7 @@ let menu = `
 ┃ *< 𝑪𝒐𝒎𝒂𝒏𝒅𝒐𝒔 >*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ┣ ඬ⃟☃︎ _a_
-┣ ඬ⃟☃︎ _${usedPrefix}cat_
+┣ ඬ⃟☃︎ _${usedPrefix}estado_
 ┣ ඬ⃟☃︎ _${usedPrefix}dog_
 ┣ ඬ⃟☃︎ _${usedPrefix}meme_
 ┣ ඬ⃟☃︎ _${usedPrefix}logos_
@@ -43,9 +43,7 @@ let menu = `
 ┣ ඬ⃟☃︎ _${usedPrefix}wikipedia *[texto]*_
 ┣ ඬ⃟☃︎ _${usedPrefix}google *[texto]*_
 ┣ ඬ⃟☃︎ _${usedPrefix}imagen *[texto]*_
-┣ ඬ⃟☃︎ _${usedPrefix}play *[texto]*_
 ┣ ඬ⃟☃︎ _${usedPrefix}video *[texto]*_
-┣ ඬ⃟☃︎ _${usedPrefix}estado
 ┣ ඬ⃟☃︎ _${usedPrefix}invocar *[texto]*_
 ┣ ඬ⃟☃︎ _${usedPrefix}ytsearch *[texto]*_
 ┣ ඬ⃟☃︎ _${usedPrefix}getaud *[url]*_
