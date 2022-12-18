@@ -9,7 +9,7 @@ if (!url) return m.reply('*[❗] 𝚂𝑒𝑟𝑣𝑖𝑑𝑜𝑟 𝑐𝑎𝑖�
 conn.sendFile(m.chat, url, 'gimage', `
 🔎 *𝐴𝑞𝑢𝑖 𝑡𝑖𝑒𝑛𝑒𝑠 𝑒𝑙 𝑟𝑒𝑠𝑢𝑙𝑡𝑎𝑑𝑜 𝑑𝑒* 
          ${text}
-Con que te gusta el ${text} ? 🥵
+_sapito-Bot_
 `.trim(), m)}
 handler.help = ['gimage <query>', 'image <query>']
 handler.tags = ['general']
