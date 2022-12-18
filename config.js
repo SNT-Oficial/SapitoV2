@@ -3,7 +3,7 @@
 global.owner = ['595983186566']
 global.packname = '➪'
 global.author = '𝕊𝕒𝕡𝕚𝕥𝕠_𝔹𝕠𝕥 𝐁𝐘: ☃︎𝑆𝑁𝑇 '
-global.wm = '🐸 S͟a͟p͟i͟t͟o͟ B͟o͟t͟ 🐸 es el mejor bot del mundo no hay otro bot mejor xd𖨆 '
+global.wm = '🐸 S͟a͟p͟i͟t͟o͟ B͟o͟t͟ 🐸 creado por SNT y The Sawn Man       número del creador +595983186566 𖨆 '
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 
 //============= urlButtons =============//
