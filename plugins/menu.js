@@ -1,7 +1,7 @@
 // 𝔖𝔦𝔪𝔭𝔩𝔢 𝔖𝔞𝔭𝔦𝔱𝔬 𝔅𝔬𝔱   🇸 🇳 🇹
 let fs = require('fs')
 let handler = async (m, { conn, usedPrefix }) => {
-let pp = './Menu1.jpg'
+let pp = './menu1.jpg'
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let menu = `
 ╭══〘 ♫︎♫︎♫︎♫︎♫︎♫︎♫︎♫︎ 〙═╮
@@ -89,7 +89,7 @@ let buttons = [
 { buttonId: '#bot cogemos?', buttonText: { displayText: '🤑 COGEMOS? 🤑' }, type: 1 },
 { buttonId: '#logo', buttonText: { displayText: '🐎 LOGOS 🐎' }, type: 1 }]
 let buttonMessage = {
-image: fs.readFileSync('./Menu1.jpg'),
+image: fs.readFileSync('./menu1.jpg'),
 caption: menu.trim(),
 mentions: [m.sender],
 footer: `*${wm}*`,
