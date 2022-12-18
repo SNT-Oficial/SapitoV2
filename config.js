@@ -3,17 +3,7 @@
 global.owner = ['595983186566']
 global.packname = '➪'
 global.author = '𝕊𝕒𝕡𝕚𝕥𝕠_𝔹𝕠𝕥 𝐁𝐘: ☃︎𝑆𝑁𝑇 '
-global.wm = '🐸 S͟a͟p͟i͟t͟o͟ B͟o͟t͟ 🐸 _hola 👋 te invito a unirte a los grupos de_ *Sapito_Bot*
-
-_Grupo 1_ https://chat.whatsapp.com/CntRn9MHu6oI29HWU6tVrC
-
-_Grupo 2_ https://chat.whatsapp.com/GxxpMawzPaW6MR0p2vH432
-
-_Grupo 3_ https://chat.whatsapp.com/I1vjFTvfZQbJI4aw0Vj5dk
-
-_Grupo 4_ https://chat.whatsapp.com/Lu01IGq2bd73PvofLwFmv5
-
-       *Te DIVERTIRAS MUCHOOOO* 𖨆 '
+global.wm = '🐸 S͟a͟p͟i͟t͟o͟ B͟o͟t͟ 🐸 Grupo Oficial https://chat.whatsapp.com/CntRn9MHu6oI29HWU6tVrC 𖨆'
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 
 //============= urlButtons =============//
