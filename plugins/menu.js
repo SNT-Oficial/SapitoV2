@@ -1,7 +1,7 @@
 // 𝔖𝔦𝔪𝔭𝔩𝔢 𝔖𝔞𝔭𝔦𝔱𝔬 𝔅𝔬𝔱   🇸 🇳 🇹
 let fs = require('fs')
 let handler = async (m, { conn, usedPrefix }) => {
-let pp = './Menu2.jpg'
+let pp = './Links.jpg'
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let menu = `
 ╭══〘 ♫︎♫︎♫︎♫︎♫︎♫︎♫︎♫︎ 〙═╮
