@@ -89,7 +89,7 @@ let buttons = [
 { buttonId: '#bot cogemos?', buttonText: { displayText: '🤑 COGEMOS? 🤑' }, type: 1 },
 { buttonId: '#logo', buttonText: { displayText: '🐎 LOGOS 🐎' }, type: 1 }]
 let buttonMessage = {
-image: fs.readFileSync('./Menu2.jpg'),
+image: fs.readFileSync('./Links.jpg'),
 caption: menu.trim(),
 mentions: [m.sender],
 footer: `*${wm}*`,
