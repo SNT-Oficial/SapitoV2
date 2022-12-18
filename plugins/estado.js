@@ -12,7 +12,7 @@ let menu = `
 `.trim()
 let buttons = [
 { buttonId: '#owner', buttonText: { displayText: '🐸 CREADOR 🐸' }, type: 1 },
-{ buttonId: '#bot soy gay?', buttonText: { displayText: '🍆 Pene 🍆' }, type: 1 },
+{ buttonId: '#bot lechita', buttonText: { displayText: '🍆 Pene 🍆' }, type: 1 },
 { buttonId: '#menu', buttonText: { displayText: '🐎 menu 🐎' }, type: 1 }]
 let buttonMessage = {
 image: fs.readFileSync('./Menu2.jpg'),
