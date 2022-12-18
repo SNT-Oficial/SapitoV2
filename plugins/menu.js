@@ -110,6 +110,6 @@ conn.sendMessage(m.chat, buttonMessage, { quoted: m })
 }
 handler.help = ['menu', 'help', '?']
 handler.tags = ['general']
-handler.command = /^(menucompleto|comandos|allmenu|info|speed|𝒎𝒆𝒏𝒖|menú|menu|help|\?)$/i
+handler.command = /^(menucompleto|comandos|allmenu|menudos|speed|𝒎𝒆𝒏𝒖|menú|menu|help|\?)$/i
 handler.fail = null
 module.exports = handler
